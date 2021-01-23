@@ -59,6 +59,7 @@
   * [Decrypt Caesar With Chi Squared](https://github.com/TheAlgorithms/Python/blob/master/ciphers/decrypt_caesar_with_chi_squared.py)
   * [Deterministic Miller Rabin](https://github.com/TheAlgorithms/Python/blob/master/ciphers/deterministic_miller_rabin.py)
   * [Diffie](https://github.com/TheAlgorithms/Python/blob/master/ciphers/diffie.py)
+  * [Diffie Hellman](https://github.com/TheAlgorithms/Python/blob/master/ciphers/diffie_hellman.py)
   * [Elgamal Key Generator](https://github.com/TheAlgorithms/Python/blob/master/ciphers/elgamal_key_generator.py)
   * [Enigma Machine2](https://github.com/TheAlgorithms/Python/blob/master/ciphers/enigma_machine2.py)
   * [Hill Cipher](https://github.com/TheAlgorithms/Python/blob/master/ciphers/hill_cipher.py)
